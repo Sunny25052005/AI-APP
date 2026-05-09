@@ -1,0 +1,21 @@
+{
+  "_users": {
+    "c8fae7b0-83d7-4bbc-84a3-1d8be8d521c8": {
+      "id": "c8fae7b0-83d7-4bbc-84a3-1d8be8d521c8",
+      "createdAt": "2026-05-02T12:39:56.068Z",
+      "updatedAt": "2026-05-02T12:39:56.068Z",
+      "email": "system@admin.com",
+      "passwordHash": "$2b$10$/G2LXfEbm/I7g1ckMyHzge2WNxSP8YXEJ/uUJND/.oQthfTqdSuF."
+    }
+  },
+  "users": {
+    "236969a7-6364-4590-94f1-2ddcb599f0d1": {
+      "id": "236969a7-6364-4590-94f1-2ddcb599f0d1",
+      "createdAt": "2026-05-02T12:39:56.094Z",
+      "updatedAt": "2026-05-02T12:39:56.094Z",
+      "name": "Sunny",
+      "email": "sunny@gmail.com",
+      "_ownerId": "c8fae7b0-83d7-4bbc-84a3-1d8be8d521c8"
+    }
+  }
+}

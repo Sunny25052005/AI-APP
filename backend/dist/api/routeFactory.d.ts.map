@@ -1,0 +1,1 @@
+{"version":3,"file":"routeFactory.d.ts","sourceRoot":"","sources":["../../src/api/routeFactory.ts"],"names":[],"mappings":"AASA,OAAO,EAAE,MAAM,EAAmC,MAAM,SAAS,CAAC;AAClE,OAAO,EAAE,YAAY,EAAE,MAAM,kBAAkB,CAAC;AAChD,OAAO,EAAE,SAAS,EAAE,MAAM,qBAAqB,CAAC;AAoChD,wBAAgB,kBAAkB,CAChC,MAAM,EAAE,YAAY,EACpB,KAAK,EAAE,SAAS,GACf,MAAM,CAoMR"}

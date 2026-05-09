@@ -1,0 +1,13 @@
+{
+  "entities": {
+    "users": {
+      "fields": ["name", "email"]
+    },
+    "products": {
+      "fields": ["name", "price"]
+    },
+    "orders": {
+      "fields": ["productId", "userId", "quantity"]
+    }
+  }
+}
